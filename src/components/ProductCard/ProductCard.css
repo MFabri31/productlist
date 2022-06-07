@@ -1,0 +1,25 @@
+.card-product {
+  max-width: 18rem;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  height: auto;
+  background-color: #fff;
+}
+
+.card-product__texts {
+  padding: 1em;
+}
+
+.card-product__text {
+  font-weight: bold;
+}
+
+.card-product__text span {
+  font-weight: initial;
+  text-transform: capitalize;
+}
+
+.card-product__img {
+  max-width: 18rem;
+  height: 13rem;
+}
